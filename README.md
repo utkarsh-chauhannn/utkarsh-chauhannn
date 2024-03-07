@@ -1,5 +1,5 @@
 ![logo](![github profile banner](https://github.com/utkarsh-chauhannn/utkarsh-chauhannn/assets/144721884/70d27e0b-d2f5-4197-9b63-68eca789f2a2)
-)
+
 # Hi there! 👋
 <h1 align="center">Hi 👋, I'm Utkarsh Chauhan</h1>
 <h3 align="center">A passionate developer</h3>
